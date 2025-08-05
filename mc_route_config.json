@@ -1,0 +1,27 @@
+{
+  "cycle_count": "1",
+  "start_index": "0",
+  "end_index": "7",
+  "route_points": [
+    {
+      "coords": "637 177 -1139",
+      "delay": 0,
+      "desc": "起点"
+    },
+    {
+      "coords": "470 190 -1013",
+      "delay": 30,
+      "desc": "矿洞入口"
+    },
+    {
+      "coords": "353 236 -1014",
+      "delay": 24,
+      "desc": "BOSS刷新点"
+    },
+    {
+      "coords": "637 177 -1139",
+      "delay": 60,
+      "desc": "返回起点"
+    }
+  ]
+}
